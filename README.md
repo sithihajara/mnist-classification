@@ -26,8 +26,8 @@ Compile and fit the model and then predict
 
 ## PROGRAM
 ```
-Developed by : Vishranthi A
-Reg no.: 212221230124
+Developed by : Sithi Hajara I
+Reg no.: 212221230102
 ```
 ```python
 import numpy as np
